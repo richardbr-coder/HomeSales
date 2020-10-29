@@ -1,0 +1,6 @@
+F:\School\CP1120 - Fundamentals of Programming I\Assignment #3\Programming exercises\HomeSales\bin\Debug\HomeSales.exe.config
+F:\School\CP1120 - Fundamentals of Programming I\Assignment #3\Programming exercises\HomeSales\bin\Debug\HomeSales.exe
+F:\School\CP1120 - Fundamentals of Programming I\Assignment #3\Programming exercises\HomeSales\bin\Debug\HomeSales.pdb
+F:\School\CP1120 - Fundamentals of Programming I\Assignment #3\Programming exercises\HomeSales\obj\Debug\HomeSales.csprojAssemblyReference.cache
+F:\School\CP1120 - Fundamentals of Programming I\Assignment #3\Programming exercises\HomeSales\obj\Debug\HomeSales.exe
+F:\School\CP1120 - Fundamentals of Programming I\Assignment #3\Programming exercises\HomeSales\obj\Debug\HomeSales.pdb
